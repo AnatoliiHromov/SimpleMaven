@@ -7,8 +7,7 @@ trigger:
 - master
 
 pool:
-
-  name: ss-pool-1
+  name: ss-pool-2
 
 steps:
 - task: SonarCloudPrepare@1
